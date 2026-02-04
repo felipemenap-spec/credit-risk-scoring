@@ -13,13 +13,13 @@ venv/
 .ipynb_checkpoints
 *.ipynb_checkpoints/
 
-# Data (no subir datasets grandes)
+# Data 
 data/raw/*.csv
 data/raw/*.xlsx
 data/processed/*.csv
 *.db
 
-# Models (no subir modelos pesados)
+# Modelos
 models/*.h5
 models/*.pkl
 models/*.joblib
